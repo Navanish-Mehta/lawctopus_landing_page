@@ -178,7 +178,7 @@ This project was created as part of a frontend development assessment. The redes
 
 ## 👨‍💻 Developed By
 
-**Navanish Mehta**
+**Navanish Mehta❤️**
 
 Frontend Developer
 
