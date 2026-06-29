@@ -97,7 +97,7 @@ public/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/lawctopus-landing-page.git
+git clone https://github.com/Navanish-Mehta/lawctopus-landing-page.git
 ```
 
 ### Navigate to the project
@@ -182,6 +182,6 @@ This project was created as part of a frontend development assessment. The redes
 
 Frontend Developer
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Navanish-Mehta
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/navanish-mehta
